@@ -1,0 +1,25 @@
+{
+  "name": "github-hack",
+  "version": "1.0.0",
+  "description": "A GitHub hack I wish no one figures out how to use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheYoBots/github-hack.git"
+  },
+  "author": "Yohaan Seth Nathan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheYoBots/github-hack/issues"
+  },
+  "homepage": "https://github.com/TheYoBots/github-hack#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.1",
+    "random": "^3.0.6",
+    "simple-git": "^2.40.0"
+  }
+}
